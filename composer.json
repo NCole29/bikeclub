@@ -1,0 +1,17 @@
+{
+  "name": "bikeclub/bikeclub",
+  "description": "Provides custom code and sub-modules.",
+  "type": "drupal-custom-module",
+  "license": ["GPL-2.0-or-later"],
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Nancy Cole",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "drupal/core": "^11"
+  },
+  "version": "1.0.1"
+}
