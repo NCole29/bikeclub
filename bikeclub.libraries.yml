@@ -7,7 +7,4 @@ bikeclub_styles:
       css/club-calendar.css: { }
       css/club-tables.css: { }
       css/gin-custom.css: { }
-olivero_calendar:
-  css:
-    theme:
-      css/olivero_calendar.css: { }  
+
